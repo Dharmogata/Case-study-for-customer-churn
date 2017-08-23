@@ -1,4 +1,4 @@
-# Tech-challenge-for-BNK Financial Group
+# Tech-challenge
 Case Study for Customer Churn Prediction
 
  
