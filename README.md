@@ -5,7 +5,7 @@ Case Study for Customer Churn Prediction
 ## Purpose
 
 
-Purpose: Tech-challenges for application for BNK
+
 
 Customer churn also known as Customer turnover occurs when customers are stop doing business with a company or service from bank. Therefore, Understanding what keeps customer engageing is incredibly valuable for banks at the moment.in the meantime, I have tried to find relevant data set about Customer churn in Banking but I could not find any publically opened data set in banking. so, I choose a similar dataset(a longstanding telecom data )
 
